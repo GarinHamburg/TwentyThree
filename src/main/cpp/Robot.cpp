@@ -46,8 +46,7 @@ void Robot::TeleopPeriodic() { }
 
 void Robot::TeleopExit() { }
 
-void Robot::TestInit() {
-}
+void Robot::TestInit() { }
 
 void Robot::TestPeriodic() { }
 
